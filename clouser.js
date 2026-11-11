@@ -1,0 +1,1 @@
+console.log("clouser in JavaScript")
